@@ -4,7 +4,7 @@
   <title>SIC-Python (Data Finance Analysis)</title>
 </head>
 <body>
-  <h1>Project Title</h1>
+  <h1>SIC-Python (Data Finance Analysis)</h1>
 
   <h2>Overview</h2>
   <p>Briefly describe the purpose and scope of the project. Highlight its significance, whether it's a personal learning project, academic exercise, or an industry-related endeavor.</p>
