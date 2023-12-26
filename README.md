@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Project Title</title>
+  <title>SIC-Python (Data Finance Analysis)</title>
 </head>
 <body>
   <h1>Project Title</h1>
