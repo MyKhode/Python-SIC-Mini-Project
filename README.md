@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SIC-Python (Data Finance Analysis)</title>
 </head>
 <body>
   <h1>SIC-Python (Data Finance Analysis)</h1>
